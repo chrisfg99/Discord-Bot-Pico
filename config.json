@@ -1,0 +1,18 @@
+{"TOKEN": "MTA2MDI4NDI4NzA3ODkwMzkzOA.GZcfX5.6IHwcVi698Dm0kWxO_FtmLB-QYpVH4LNoLNGoc",
+
+"WELCOME_CHANNEL" : "fu",
+
+"RULES_CHANNEL" : "welcome",
+
+"NAMES" : ["example1", "example2", "example3"],
+
+"JOINS" : ["example1", "example2", "example3"],
+
+"ban_members" : "True",
+
+"kick_members" : "True",
+
+"manage_nicknames" : "True",
+
+"prefix" : "!"
+}
